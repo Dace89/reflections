@@ -1,0 +1,12 @@
+this is stupid but hey
+
+thouhgts on git - good versional control supporting commit
+
+git is disigned for version control and gdocs not so its features including suupporting multiple files commit is superior. git is for coding
+
+git log gives you all commitss in a git repository - make sure you are in directory of the repository to launch
+
+git diff gives you the view of the from the gitt commit points
+git diff session_1_comit sessio_2_comit
+
+will this commit?
