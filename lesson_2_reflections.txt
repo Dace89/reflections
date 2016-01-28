@@ -19,3 +19,9 @@ Running git init in an existing repository is safe. It will not overwrite things
 https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository
 
 the staging area is an internal git working area that holds files pending commit or will be linked to a commit pointer - all files in there will be referenced by the same fie
+
+
+How How can you use the staging area to make sure you have one commit per logical change?
+
+
+by making sure that you have the  only logical changes in the staging area - with gitt add - so taht when you commit you only have that commit (reference) pointint go a single logical change
